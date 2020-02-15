@@ -32,34 +32,67 @@ mypar = list(mar = c(3,3,0.5,0.5), mgp = c(1.5, 0.3, 0), tck = -.008)
 ```
 class: middle, title-slide
 
-# My talk template
+# L&#39;écologie computationnelle
 
-## My talk subtitle
-
-### Willian Vieira, .small[PhD candidate <br> + Collaborators]
+## Réseaux trophiques des vertébrés terrestres du Québec
 
 <br><br><br><br><br>
-<i class="fa fa-github fa-2x" style="color:#335049"></i> [WillVieira/talkTemplate](https://github.com/willvieira/talkTemplate)
 
-<i class="fa fa-twitter fa-2x" style="color:#335049"></i> [@WillVieira90](https://twitter.com/willvieira90)
+### Benjamin Mercier, <br> .small[Étudiant au BSc en écologie]
+
+<br><br><br><br><br>
+<i class="fa fa-github fa-2x" style="color:#335049"></i> [BenMerSci/CVM_presentation](https://github.com/BenMerSci/CVM_talk)
+
+<i class="fa fa-twitter fa-2x" style="color:#335049"></i> 
+[@BenMerSci](https://twitter.com/BenMerSci)
 
 ---
-class: inverse
+# Déroulement de l'exposé
+- Mon cheminement
+<br><br>
+- Qu'est-ce que l'écologie computationnelle
+<br><br>
+- Projet de recherche
 
-.pull-left1[
-<br>
+---
+class: inverse, middle, center
+# Mon cheminement
+---
+# Mon cheminement
 
-# Key message here
+## Cégep du Vieux Montréal
+- Pré-universitaire en Sciences de la nature
 
-<br><br><br><br><br><br><br><br>
+## Université de Sherbrooke
+- Baccalauréat en écologie
+- Microprogramme en écologie pratique
+- Découverte d'un intérêt particulier pour l'informatique
 
-**Special thanks to**
+---
+class: inverse, middle, center
+#Qu'est-ce que l'écologie computationnelle?
 
-Nice people
+---
+# Définition
+- Croisement entre l'écologie et l'informatique
+- Permet de réaliser des analyses poussées
+
+---
+# Quelques exemples d'application
+##1) Modélisation de la migration de la forêt
+.center[
+![:scale 90%](images/RCP8.5.gif)
 ]
+<br><br>
+.tiny[.cite[Vissault, S. [2016.](http://semaphore.uqar.ca/1266/) Diss. Université du Québec à Rimouski]]
+---
+# Quelques exemples d'application
+##2) Les réseaux trophiques marins
 
-.pull-right1[
-<br>
-<br>
-![:scale 90%](images/logo.png)
-]
+
+.tiny[.cite[Albouy, C. et al. [2019](https://www.nature.com/articles/s41559-019-0950-y) Nature ecology & evolution, .3(8), 1153-1161.]]
+---
+class: inverse, middle, center
+#Reconstitution des réseaux trophiques des vertébrés terrestres
+
+---

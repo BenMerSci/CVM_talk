@@ -1,4 +1,4 @@
-ASS=$(shell find assests)
+ASS=$(shell find assets)
 CONF=$(shell find conf)
 IMG=images
 IND=index
