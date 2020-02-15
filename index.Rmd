@@ -88,7 +88,9 @@ class: inverse, middle, center
 ---
 # Quelques exemples d'application
 ##2) Les réseaux trophiques marins
-
+- Impossible d'échantillonner les réseaux marins empiriquement
+<h2>
+- Reconstituer les réseaux en combinant des données massives et certaines suppositions
 
 .tiny[.cite[Albouy, C. et al. [2019](https://www.nature.com/articles/s41559-019-0950-y) Nature ecology & evolution, .3(8), 1153-1161.]]
 ---
