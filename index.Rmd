@@ -48,7 +48,7 @@ class:
 
  1. Mon cheminement
 <br><br>
- 2. Qu'est-ce que l'écologie computationnelle
+ 2. Qu'est-ce que l'écologie computationnelle ?
 <br><br>
  3. Présentation du projet de recherche
 
@@ -354,7 +354,7 @@ class: inverse, middle, center
 # Méthodologie <hr/>
 ## Reconstituer le méta-réseau avec l'algorithme KNN
 - **KNN:** K plus proches voisins (K-Nearest-Neighbor)
-- Nécessite une initialement une matrice d'interaction 
+- Nécessite initialement une matrice d'interaction 
 .center[![:scale 105%](images/subset_mat_inter.png)]
 <br>
 
