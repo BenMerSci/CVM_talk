@@ -52,7 +52,7 @@
     right: 100px;
 }
 
-/* page number*/
+/* page number */
 .remark-slide-number {
   bottom: 11px;
   opacity: .6;
@@ -70,6 +70,9 @@ a {
     background-color: #325049;
     color: #d6d6d6;
 } 
+.inverse h1{
+  color: #d6d6d6
+}
 
 /* Column */
   .pull-left {
@@ -120,28 +123,21 @@ a {
     font-size: .6em;
   }
 
-/* MathJax */
+/* MathJax, for math equation */
   .mjx-chtml{
     font-size: 105% !important;
     float: left !important;
     padding: 0em 0em 0em 4.5em !important;
+    position: relative;
   }
 
-/* progress */
-  .remark-slide-number {
-    position: inherit;
-  }
-
-  .remark-slide-number .progress-bar-container {
-    position: absolute;
-    bottom: 0;
-    height: 4px;
+hr {
     display: block;
-    left: 0;
-    right: 0;
-  }
-
-  .remark-slide-number .progress-bar {
-    height: 100%;
-    background-color: #325049;
-  }
+    height: 2px;
+    border: 1px;
+    border-top: 1px solid #ccc;
+    margin-top: 2px;
+    margin-bottom: 3;
+    padding: 2;
+    background-color: #42766a;
+}
