@@ -98,9 +98,9 @@ class: inverse, middle, center
 <h2>
 - Développement et applications de théories mathématiques (1960)
 <h2>
-- Expérience terrain coûteux et laborieux
+- Expériences terrains coûteuses et laborieuses
 <h2>
-- Accumulation massive de données meilleurs ordinateurs
+- Accumulation massive de données et meilleurs ordinateurs
 
 ]
 .pull-right[
@@ -193,13 +193,20 @@ class: inverse, middle, center
 
 ---
 
+# Préambule (suite) <hr/>
+## Services écosystémiques
+- Services écosystémiques découlent des interactions présentent dans les réseaux trophiques [1, 2, 3]
+<br><br><br>
+.pull-left[![:scale 110%](images/polinisation.png)]
+.pull-right[![:scale 105%](images/detritivore.png)]
+
+---
+
 # Préambule <hr/>
 ## Cascade trophique
 
 .pull-left[
-&nbsp;&nbsp;Services écosystémiques découlent &nbsp;&nbsp;des interactions biologiques [1, 2, 3]
-<br><br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; .Large[&darr;]
+
 <br><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**changements globaux**
 <br><br>
@@ -348,6 +355,16 @@ class: inverse, middle, center
 <h2>
 - Résulte en un méta-réseau
 .center[![:scale 60%](https://media.giphy.com/media/bPCwGUF2sKjyE/source.gif)]
+
+---
+
+# Méthodologie <hr/>
+## Regrouper et formatter les données de base
+- Jeux de données représentatifs de l'ensemble du Québec
+<h2>
+- Formatage essentiel des données
+<h2>
+- Résulte en un méta-réseau
 
 ---
 
