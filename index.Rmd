@@ -406,8 +406,8 @@ $$Jaccard_d = \frac{a}{(a+b+c)}$$
 
 # Méthodologie <hr/>
 ## Illustrer spatialement le méta-réseau
-.pull-left[![:scale 110%](images/faible_reso.png)]
-.pull-right[![:scale 110%](images/haute_reso.png)]
+.pull-left[![:scale 137%](images/faible_reso.png)]
+.pull-right[![:scale 140%](images/haute_reso.png)]
 
 ---
 # Méthodologie <hr/>
